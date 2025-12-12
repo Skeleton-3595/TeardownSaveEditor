@@ -44,7 +44,7 @@ The **Teardown Save Editor** allows you to modify your game progress, unlock hid
     ```
 3.  Run the script:
     ```bash
-    python main.py
+    python TDSaveEditor.py
     ```
 
 ### 🚀 How to Use
@@ -84,7 +84,7 @@ The **Teardown Save Editor** allows you to modify your game progress, unlock hid
     ```
 3.  Запустите скрипт:
     ```bash
-    python main.py
+    python TDSaveEditor.py
     ```
 
 ### 🚀 Как пользоваться
