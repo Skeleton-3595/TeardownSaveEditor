@@ -1,3 +1,4 @@
+# MADE BY SKELETON3595
 import os
 import shutil
 import re
@@ -548,4 +549,5 @@ if __name__ == "__main__":
     print_socials()
     print_gameversion_warning()
     app = App()
+
     app.mainloop()
