@@ -2,7 +2,7 @@
 
 # 🏗️ Teardown Save Editor
 
-**A modern tool to customize your Teardown experience.**  
+**A modern save editor for Teardown.**  
 **Современный редактор сохранений для Teardown.**
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
