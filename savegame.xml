@@ -1,0 +1,1144 @@
+<registry version="2.0.0">
+	<savegame>
+		<player>
+			<character value="billy_bones_jones"/>
+		</player>
+		<freshcharacters>
+			<sven_lagom value="0"/>
+			<ingrid_funke value="0"/>
+			<parisa value="0"/>
+			<chris_seabranch value="0"/>
+			<billy_bones_jones value="0"/>
+			<nils_andree value="0"/>
+			<magnus value="0"/>
+			<spacesuit value="0"/>
+			<sam_sandstream value="0"/>
+			<monty_quilez value="0"/>
+			<bjorn value="0"/>
+			<freya value="0"/>
+			<gina_campbell value="0"/>
+			<builtin-merlin_merlin value="0"/>
+			<lisa_lagom value="0"/>
+			<keiko_lagom value="0"/>
+			<maria_lagom value="0"/>
+			<fumiaki_lagom value="0"/>
+			<carlos_lagom value="0"/>
+			<steam-3558829133/>
+		</freshcharacters>
+		<mod>
+			<steam-2419552682>
+				<version value="3.0999999046"/>
+				<options value='{["render"] = {["enabled"] = false,["renderDistance"] = 2},["general"] = {["enabled"] = true,["speedrun"] = false,["debug"] = false,["keybind"] = "p",["experimental"] = false,["theme"] = "dark",["hidden"] = true,["advanced"] = true},["fog"] = {["enabled"] = false,["fogStart"] = 50,["fogEnd"] = 200,["fogExponent"] = 8,["fogAmount"] = 0.9},["light"] = {["enabled"] = false,["lampColor"] = {[1] = 1,[2] = 1,[4] = 1,[3] = 1},["lampLimit"] = 1,["shadowLimit"] = 32},["debris"] = {["enabled"] = false,["collideLevel"] = true,["smart"] = true,["collider"] = true,["particle"] = false,["colliderVoxelCount"] = 100,["cleaner"] = true,["stabilizerVoxelCount"] = 50,["stabilizerRadius"] = 20,["stabilizer"] = false,["cleanerVoxelCount"] = 50,["particleAmount"] = 2,["stabilizerForce"] = 0.1},["fire"] = {["enabled"] = false,["fireSpread"] = 1,["performance"] = false,["fireLimit"] = 200},["counter"] = {["backColor"] = {[1] = 0,[2] = 0,[4] = 0.5,[3] = 0},["bodyCount"] = false,["duration"] = 60,["estimate"] = false,["background"] = true,["textSize"] = 16,["size"] = 1,["enabled"] = false,["graph"] = false,["accuracy"] = 2,["frameCount"] = true,["shapeCount"] = false,["textColor"] = {[1] = 1,[2] = 1,[4] = 1,[3] = 1},["position"] = {[1] = 0,[2] = 0},["frameCountMin"] = true,["frameCountMax"] = true,["fireCount"] = false,["frequency"] = 10}}'/>
+			</steam-2419552682>
+			<steam-3325882246>
+				<toggle value="N"/>
+			</steam-3325882246>
+			<steam-3483217544>
+				<parachute_key value="Q"/>
+				<prev_build value="0"/>
+				<attachmodev2 value="1"/>
+				<dynamic_attachmodev2 value="0"/>
+				<init_config value="1"/>
+				<settings>
+					<time value="300">
+						<index value="1"/>
+					</time>
+				</settings>
+			</steam-3483217544>
+			<steam-2889882962>
+				<sar>
+					<res value="32"/>
+				</sar>
+			</steam-2889882962>
+			<steam-2798126764>
+				<tearware_watermark value="1"/>
+				<tearware_watermark_key value="null"/>
+				<tearware_watermark_red value="1.0"/>
+				<tearware_watermark_red_default value="1.0"/>
+				<tearware_watermark_green value="1.0"/>
+				<tearware_watermark_green_default value="1.0"/>
+				<tearware_watermark_blue value="1.0"/>
+				<tearware_watermark_blue_default value="1.0"/>
+				<tearware_watermark_alpha value="1.0"/>
+				<tearware_watermark_alpha_default value="1.0"/>
+				<tearware_watermark_rainbow value="1"/>
+				<tearware_watermark_rainbow_default value="1"/>
+				<tearware_watermarkalignmentlr value="0"/>
+				<tearware_featurelist value="1"/>
+				<tearware_featurelist_key value="null"/>
+				<tearware_featurelist_red value="1.0"/>
+				<tearware_featurelist_red_default value="1.0"/>
+				<tearware_featurelist_green value="1.0"/>
+				<tearware_featurelist_green_default value="1.0"/>
+				<tearware_featurelist_blue value="1.0"/>
+				<tearware_featurelist_blue_default value="1.0"/>
+				<tearware_featurelist_alpha value="1.0"/>
+				<tearware_featurelist_alpha_default value="1.0"/>
+				<tearware_featurelist_rainbow value="1"/>
+				<tearware_featurelist_rainbow_default value="1"/>
+				<tearware_featurelistalignmentlr value="0"/>
+				<tearware_objectiveesp value="1"/>
+				<tearware_objectiveesp_key value="null"/>
+				<tearware_objectiveesp_red value="0.6999999881"/>
+				<tearware_objectiveesp_red_default value="0.6999999881"/>
+				<tearware_objectiveesp_green value="0.3000000119"/>
+				<tearware_objectiveesp_green_default value="0.3000000119"/>
+				<tearware_objectiveesp_blue value="0.3000000119"/>
+				<tearware_objectiveesp_blue_default value="0.3000000119"/>
+				<tearware_objectiveesp_alpha value="0.6999999881"/>
+				<tearware_objectiveesp_alpha_default value="0.6999999881"/>
+				<tearware_objectiveesp_rainbow value="0"/>
+				<tearware_objectiveesp_rainbow_default value="0"/>
+				<tearware_optionalesp value="0"/>
+				<tearware_optionalesp_key value="null"/>
+				<tearware_optionalesp_red value="0.3000000119"/>
+				<tearware_optionalesp_red_default value="0.3000000119"/>
+				<tearware_optionalesp_green value="0.3000000119"/>
+				<tearware_optionalesp_green_default value="0.3000000119"/>
+				<tearware_optionalesp_blue value="0.6999999881"/>
+				<tearware_optionalesp_blue_default value="0.6999999881"/>
+				<tearware_optionalesp_alpha value="0.6999999881"/>
+				<tearware_optionalesp_alpha_default value="0.6999999881"/>
+				<tearware_optionalesp_rainbow value="0"/>
+				<tearware_optionalesp_rainbow_default value="0"/>
+				<tearware_valueesp value="1"/>
+				<tearware_valueesp_key value="null"/>
+				<tearware_valueesp_red value="0.3000000119"/>
+				<tearware_valueesp_red_default value="0.3000000119"/>
+				<tearware_valueesp_green value="0.6999999881"/>
+				<tearware_valueesp_green_default value="0.6999999881"/>
+				<tearware_valueesp_blue value="0.3000000119"/>
+				<tearware_valueesp_blue_default value="0.3000000119"/>
+				<tearware_valueesp_alpha value="0.6999999881"/>
+				<tearware_valueesp_alpha_default value="0.6999999881"/>
+				<tearware_valueesp_rainbow value="0"/>
+				<tearware_valueesp_rainbow_default value="0"/>
+				<tearware_toolesp value="1"/>
+				<tearware_toolesp_key value="null"/>
+				<tearware_toolesp_red value="0.6999999881"/>
+				<tearware_toolesp_red_default value="0.6999999881"/>
+				<tearware_toolesp_green value="0.6999999881"/>
+				<tearware_toolesp_green_default value="0.6999999881"/>
+				<tearware_toolesp_blue value="0.3000000119"/>
+				<tearware_toolesp_blue_default value="0.3000000119"/>
+				<tearware_toolesp_alpha value="0.6999999881"/>
+				<tearware_toolesp_alpha_default value="0.6999999881"/>
+				<tearware_toolesp_rainbow value="0"/>
+				<tearware_toolesp_rainbow_default value="0"/>
+				<tearware_weaponglow value="1"/>
+				<tearware_weaponglow_key value="null"/>
+				<tearware_weaponglow_red value="1.0"/>
+				<tearware_weaponglow_red_default value="1.0"/>
+				<tearware_weaponglow_green value="1.0"/>
+				<tearware_weaponglow_green_default value="1.0"/>
+				<tearware_weaponglow_blue value="1.0"/>
+				<tearware_weaponglow_blue_default value="1.0"/>
+				<tearware_weaponglow_alpha value="1.0"/>
+				<tearware_weaponglow_alpha_default value="1.0"/>
+				<tearware_weaponglow_rainbow value="1"/>
+				<tearware_weaponglow_rainbow_default value="1"/>
+				<tearware_activeglow value="0"/>
+				<tearware_activeglow_key value="null"/>
+				<tearware_activeglow_red value="1.0"/>
+				<tearware_activeglow_red_default value="1.0"/>
+				<tearware_activeglow_green value="1.0"/>
+				<tearware_activeglow_green_default value="1.0"/>
+				<tearware_activeglow_blue value="1.0"/>
+				<tearware_activeglow_blue_default value="1.0"/>
+				<tearware_activeglow_alpha value="1.0"/>
+				<tearware_activeglow_alpha_default value="1.0"/>
+				<tearware_activeglow_rainbow value="1"/>
+				<tearware_activeglow_rainbow_default value="1"/>
+				<tearware_rainbowfog value="1"/>
+				<tearware_rainbowfog_key value="null"/>
+				<tearware_rainbowfog_red value="1.0"/>
+				<tearware_rainbowfog_red_default value="1.0"/>
+				<tearware_rainbowfog_green value="1.0"/>
+				<tearware_rainbowfog_green_default value="1.0"/>
+				<tearware_rainbowfog_blue value="1.0"/>
+				<tearware_rainbowfog_blue_default value="1.0"/>
+				<tearware_rainbowfog_alpha value="1.0"/>
+				<tearware_rainbowfog_alpha_default value="1.0"/>
+				<tearware_rainbowfog_rainbow value="1"/>
+				<tearware_rainbowfog_rainbow_default value="1"/>
+				<tearware_postprocessing value="1"/>
+				<tearware_postprocessing_key value="null"/>
+				<tearware_postprocessing_red value="0.5"/>
+				<tearware_postprocessing_red_default value="0.5"/>
+				<tearware_postprocessing_green value="0.5"/>
+				<tearware_postprocessing_green_default value="0.5"/>
+				<tearware_postprocessing_blue value="0.5"/>
+				<tearware_postprocessing_blue_default value="0.5"/>
+				<tearware_postprocessing_alpha value="0.5"/>
+				<tearware_postprocessing_alpha_default value="0.5"/>
+				<tearware_postprocessing_rainbow value="0"/>
+				<tearware_postprocessing_rainbow_default value="0"/>
+				<tearware_speedhack value="0"/>
+				<tearware_speedhack_key value="null"/>
+				<tearware_speedhackamount value="14.0"/>
+				<tearware_speedhackboost value="28.0"/>
+				<tearware_spider value="0"/>
+				<tearware_spider_key value="null"/>
+				<tearware_fly value="0"/>
+				<tearware_fly_key value="null"/>
+				<tearware_flyamount value="20.0"/>
+				<tearware_flyboost value="40.0"/>
+				<tearware_noclip value="0"/>
+				<tearware_noclip_key value="null"/>
+				<tearware_noclipamount value="1.0"/>
+				<tearware_noclipboost value="9.0"/>
+				<tearware_floorstrafe value="0"/>
+				<tearware_floorstrafe_key value="null"/>
+				<tearware_jetpack value="0"/>
+				<tearware_jetpack_key value="null"/>
+				<tearware_jesus value="0"/>
+				<tearware_jesus_key value="null"/>
+				<tearware_quickstop value="1"/>
+				<tearware_quickstop_key value="null"/>
+				<tearware_infiniteammo value="0"/>
+				<tearware_infiniteammo_key value="null"/>
+				<tearware_superstrength value="1"/>
+				<tearware_superstrength_key value="null"/>
+				<tearware_godmode value="1"/>
+				<tearware_godmode_key value="null"/>
+				<tearware_disablerobots value="0"/>
+				<tearware_disablerobots_key value="null"/>
+				<tearware_timer value="0"/>
+				<tearware_timer_key value="null"/>
+				<tearware_timerscale value="10.0"/>
+				<tearware_skipobjective value="0"/>
+				<tearware_skipobjective_key value="null"/>
+				<tearware_disablealarm value="0"/>
+				<tearware_disablealarm_key value="null"/>
+				<tearware_disablephysics value="0"/>
+				<tearware_disablephysics_key value="null"/>
+				<tearware_forceupdatephysics value="0"/>
+				<tearware_forceupdatephysics_key value="null"/>
+				<tearware_autocollect value="0"/>
+				<tearware_autocollect_key value="null"/>
+				<tearware_inflation value="0"/>
+				<tearware_inflation_key value="null"/>
+				<tearware_structurerestorer value="0"/>
+				<tearware_structurerestorer_key value="null"/>
+				<tearware_rubberband value="0"/>
+				<tearware_rubberband_key value="null"/>
+				<tearware_rubberband_red value="1.0"/>
+				<tearware_rubberband_red_default value="1.0"/>
+				<tearware_rubberband_green value="0.3000000119"/>
+				<tearware_rubberband_green_default value="0.3000000119"/>
+				<tearware_rubberband_blue value="1.0"/>
+				<tearware_rubberband_blue_default value="1.0"/>
+				<tearware_rubberband_alpha value="0.0"/>
+				<tearware_rubberband_alpha_default value="0.0"/>
+				<tearware_rubberband_rainbow value="0"/>
+				<tearware_rubberband_rainbow_default value="0"/>
+				<tearware_teleport value="0"/>
+				<tearware_teleport_key value="null"/>
+				<tearware_teleportdelay value="150.0"/>
+				<tearware_explosionbrush value="0"/>
+				<tearware_explosionbrush_key value="null"/>
+				<tearware_explosionbrushsize value="1.0"/>
+				<tearware_firebrush value="0"/>
+				<tearware_firebrush_key value="null"/>
+				<tearware_activetab value="1"/>
+			</steam-2798126764>
+			<steam-3623069506>
+				<version value="2.0.0"/>
+			</steam-3623069506>
+			<steam-3622325648>
+				<pitch value="1"/>
+				<smooth value="1"/>
+				<inertia value="1"/>
+				<key value="f6"/>
+				<smoothkey value="f5"/>
+				<asc value="space"/>
+				<dec value="shift"/>
+				<fast value="ctrl"/>
+				<slow value="alt"/>
+				<fly value="f7"/>
+				<speed value="25"/>
+			</steam-3622325648>
+			<steam-3622859867>
+				<customsbox_need_delet_vanilla_tool_gun value="0"/>
+				<customsbox_names value="0"/>
+			</steam-3622859867>
+			<steam-3623387883>
+				<rs value="2"/>
+			</steam-3623387883>
+			<steam-3622244769>
+				<key>
+					<show value="G"/>
+					<ping value="MMB"/>
+				</key>
+				<ping>
+					<size value="0.200000003"/>
+				</ping>
+			</steam-3622244769>
+			<steam-3621818416>
+				<easychat>
+					<namecolr value="1.0"/>
+					<namecolg value="1.0"/>
+					<namecolb value="1.0"/>
+					<vnumber value="1"/>
+					<scale value="1.0"/>
+					<chatheight value="300.0"/>
+					<font value="1.0"/>
+					<textshadow value="0.6999999881"/>
+					<textoutline value="0.0"/>
+					<maxhistory value="12.0"/>
+					<spacing value="14.0"/>
+					<teamcolors value="1"/>
+				</easychat>
+			</steam-3621818416>
+			<steam-3621835738>
+				<settings>
+					<time value="300">
+						<index value="1"/>
+					</time>
+					<hidetime value="30">
+						<index value="1"/>
+					</hidetime>
+					<hunters value="1">
+						<index value="1"/>
+					</hunters>
+					<enforcelimit value="1">
+						<index value="1"/>
+					</enforcelimit>
+					<serverrandomteams value="1">
+						<index value="1"/>
+					</serverrandomteams>
+					<hinttimer value="30">
+						<index value="1"/>
+					</hinttimer>
+					<bullettimer value="5">
+						<index value="1"/>
+					</bullettimer>
+					<pipebombtimer value="30">
+						<index value="1"/>
+					</pipebombtimer>
+					<bluetide value="20">
+						<index value="1"/>
+					</bluetide>
+				</settings>
+			</steam-3621835738>
+		</mod>
+		<tool>
+			<sledge>
+				<enabled value="1"/>
+			</sledge>
+			<spraycan>
+				<enabled value="1"/>
+			</spraycan>
+			<extinguisher>
+				<enabled value="1"/>
+			</extinguisher>
+			<blowtorch>
+				<enabled value="1"/>
+				<ammo value="60"/>
+			</blowtorch>
+			<shotgun>
+				<enabled value="1"/>
+				<ammo value="2000"/>
+				<range value="500"/>
+				<damage value="141"/>
+			</shotgun>
+			<plank>
+				<enabled value="1"/>
+				<ammo value="64"/>
+				<width value="5"/>
+				<length value="64"/>
+			</plank>
+			<pipebomb>
+				<enabled value="1"/>
+				<ammo value="36"/>
+				<damage value="4"/>
+			</pipebomb>
+			<gun>
+				<enabled value="1"/>
+				<ammo value="36"/>
+				<range value="100"/>
+				<damage value="3"/>
+			</gun>
+			<bomb>
+				<enabled value="1"/>
+				<ammo value="36"/>
+				<damage value="6"/>
+			</bomb>
+			<wire>
+				<enabled value="1"/>
+				<ammo value="24"/>
+				<stretch value="5"/>
+			</wire>
+			<rocket>
+				<enabled value="1"/>
+				<damage value="5"/>
+				<ammo value="24"/>
+			</rocket>
+			<leafblower>
+				<enabled value="1"/>
+				<power value="50"/>
+			</leafblower>
+			<booster>
+				<enabled value="1"/>
+				<ammo value="24"/>
+				<power value="400"/>
+				<time value="8"/>
+			</booster>
+			<turbo>
+				<enabled value="1"/>
+				<ammo value="24"/>
+				<power value="400"/>
+			</turbo>
+			<explosive>
+				<enabled value="1"/>
+				<damage value="8"/>
+				<ammo value="16"/>
+			</explosive>
+			<rifle>
+				<enabled value="1"/>
+				<ammo value="18"/>
+			</rifle>
+			<steroid>
+				<enabled value="1"/>
+				<ammo value="4"/>
+				<time value="6"/>
+			</steroid>
+		</tool>
+		<characters>
+			<lisa_lagom value="1"/>
+			<carlos_lagom value="1"/>
+			<maria_lagom value="1"/>
+			<sven_lagom value="1"/>
+			<keiko_lagom value="1"/>
+			<fumiaki_lagom value="1"/>
+			<ingrid_funke value="1"/>
+			<parisa value="1"/>
+			<chris_seabranch value="1"/>
+			<billy_bones_jones value="1"/>
+			<monty_quilez value="1"/>
+			<bjorn value="1"/>
+			<gina_campbell value="1"/>
+			<sam_sandstream value="1"/>
+			<magnus value="1"/>
+			<freya value="1"/>
+			<spacesuit value="1"/>
+			<nils_andree value="1"/>
+		</characters>
+		<valuable>
+			<hub_banana value="1"/>
+			<lee_wrench value="1"/>
+			<lee_stair_toolbox value="1"/>
+			<lee_disccutter value="1"/>
+			<lee_screwdriver value="1"/>
+			<lee_painting2 value="1"/>
+			<lee_painting4 value="1"/>
+			<lee_trowel value="1"/>
+			<lee_laser2 value="1"/>
+			<lee_cutters value="1"/>
+			<lee_laser1 value="1"/>
+			<lee_circularsaw value="1"/>
+			<lee_painting1 value="1"/>
+			<lee_microscope value="1"/>
+			<lee_whisky value="1"/>
+			<lee_cash6 value="1"/>
+			<lee_cash5 value="1"/>
+			<lee_cash4 value="1"/>
+			<lee_bottles value="1"/>
+			<lee_cash2 value="1"/>
+			<lee_cash1 value="1"/>
+			<lee_tilecutter value="1"/>
+			<lee_college value="1"/>
+			<lee_pneumaticwrench value="1"/>
+			<lee_wallet value="1"/>
+			<lee_pension value="1"/>
+			<lee_cash3 value="1"/>
+			<lee_bits value="1"/>
+			<lee_comics value="1"/>
+			<marina_sparkplugs value="1"/>
+			<marina_gamingconsole value="1"/>
+			<marina_sunglasses value="1"/>
+			<marina_callibration value="1"/>
+			<marina_cashregister value="1"/>
+			<marina_silvercoins value="1"/>
+			<marina_sword value="1"/>
+			<marina_cashbag value="1"/>
+			<marina_dagger value="1"/>
+			<marina_telescope value="1"/>
+			<marina_vacuum value="1"/>
+			<marina_propeller value="1"/>
+			<marina_modelship value="1"/>
+			<marina_swordfish value="1"/>
+			<marina_tequila value="1"/>
+			<marina_sander value="1"/>
+			<marina_flashlight value="1"/>
+			<marina_walkietalkie value="1"/>
+			<marina_drill value="1"/>
+			<marina_sextant value="1"/>
+			<marina_lifevest value="1"/>
+			<marina_cigarbox value="1"/>
+			<marina_fishing value="1"/>
+			<marina_binoculars value="1"/>
+			<marina_amethyst value="1"/>
+			<marina_mp3 value="1"/>
+			<marina_sonar value="1"/>
+			<marina_compass value="1"/>
+			<marina_gun value="1"/>
+			<marina_trophy value="1"/>
+			<marina_lubrication value="1"/>
+			<marina_cashbox value="1"/>
+			<marina_hook value="1"/>
+			<marina_painting1 value="1"/>
+			<marina_cannonball value="1"/>
+			<mansion_sneakers value="1"/>
+			<mansion_oysters value="1"/>
+			<mansion_silverware value="1"/>
+			<mansion_tshirt value="1"/>
+			<mansion_wallet1 value="1"/>
+			<mansion_wallet3 value="1"/>
+			<mansion_walkman value="1"/>
+			<mansion_soup value="1"/>
+			<mansion_moviebook value="1"/>
+			<mansion_gift value="1"/>
+			<mansion_popcornmanual value="1"/>
+			<mansion_passport value="1"/>
+			<mansion_snookerbook value="1"/>
+			<mansion_lighter2 value="1"/>
+			<mansion_bronzestatue value="1"/>
+			<mansion_creditcard value="1"/>
+			<mansion_remote value="1"/>
+			<liquor1 value="1"/>
+			<mansion_cablebox value="1"/>
+			<mansion_model_train value="1"/>
+			<mansion_pills value="1"/>
+			<mansion_charcoal value="1"/>
+			<mansion_jewelry value="1"/>
+			<mansion_gardeningbook value="1"/>
+			<mansion_foodprocessor value="1"/>
+			<mansion_knives value="1"/>
+			<mansion_trophy value="1"/>
+			<mansion_caviar value="1"/>
+			<vacuumcleaner value="1"/>
+			<mansion_thermometer value="1"/>
+			<mansion_wallet2 value="1"/>
+			<mansion_chocolate value="1"/>
+			<mansion_elevatormanual value="1"/>
+			<mansion_lighter value="1"/>
+			<mansion_pan value="1"/>
+			<mansion_toiletbrush value="1"/>
+			<mansion_wine value="1"/>
+			<mansion_makeup value="1"/>
+			<mansion_drill value="1"/>
+			<mansion_dictaphone value="1"/>
+			<mansion_carburetor value="1"/>
+			<mansion_cash value="1"/>
+			<guesthouse_lamp value="1"/>
+			<mansion_calibration value="1"/>
+			<mansion_coincollection value="1"/>
+			<marina_steeringwheel value="1"/>
+			<fraud_toolbox value="1"/>
+			<mansion_polishtrophy value="1"/>
+			<caveisland_binoculars value="1"/>
+			<caveisland_fishingscale value="1"/>
+			<caveisland_vacuum value="1"/>
+			<caveisland_fishinggear value="1"/>
+			<caveisland_tar value="1"/>
+			<caveisland_yeast value="1"/>
+			<caveisland_ragswater value="1"/>
+			<caveisland_pesticide value="1"/>
+			<caveisland_nutrition value="1"/>
+			<caveisland_fishingknife value="1"/>
+			<caveisland_airpurifier value="1"/>
+			<caveisland_vaultgold value="1"/>
+			<caveisland_detergent value="1"/>
+			<caveisland_disccutter value="1"/>
+			<caveisland_drill value="1"/>
+			<caveisland_crock-of-gold value="1"/>
+			<caveisland_carbon_lamp value="1"/>
+			<caveisland_chess value="1"/>
+			<caveisland_labeling value="1"/>
+			<caveisland_radio value="1"/>
+			<caveisland_wine value="1"/>
+			<caveisland_wallet1 value="1"/>
+			<caveisland_gin value="1"/>
+			<caveisland_book value="1"/>
+			<caveisland_alarmclock1 value="1"/>
+			<caveisland_drilltape value="1"/>
+			<caveisland_pulsewatch value="1"/>
+			<caveisland_btextra value="1"/>
+			<caveisland_cashregister2 value="1"/>
+			<caveisland_vaultcash value="1"/>
+			<caveisland_monitor value="1"/>
+			<caveisland_tv1 value="1"/>
+			<caveisland_oldtv value="1"/>
+			<caveisland_projector value="1"/>
+			<caveisland_gardenscissors value="1"/>
+			<caveisland_phone value="1"/>
+			<caveisland_cashregister1 value="1"/>
+			<mall_radio value="1"/>
+			<mall_civet value="1"/>
+			<mall_trufflejuice value="1"/>
+			<mall_gardenscissors value="1"/>
+			<mall_necklace value="1"/>
+			<mall_democash value="1"/>
+			<mall_furcoat value="1"/>
+			<mall_hoodie value="1"/>
+			<mall_safecracking value="1"/>
+			<mall_fxpedal value="1"/>
+			<mall_vinegar value="1"/>
+			<mall_taco value="1"/>
+			<mall_vodka value="1"/>
+			<mall_wallet1 value="1"/>
+			<mall_cash1 value="1"/>
+			<mall_eaudetoilette value="1"/>
+			<mall_skateboard value="1"/>
+			<mall_goldwatch value="1"/>
+			<mall_vram value="1"/>
+			<mall_flashlight value="1"/>
+			<mall_busybooks value="1"/>
+			<mall_stapler value="1"/>
+			<mall_tiepin value="1"/>
+			<mall_durablephone value="1"/>
+			<mall_bluetidecashbox value="1"/>
+			<mall_underwear value="1"/>
+			<mall_pinkspray value="1"/>
+			<caveisland_pills value="1"/>
+			<frustrum_oilpaint value="1"/>
+			<frustrum_reciprocating value="1"/>
+			<frustrum_smokemachine value="1"/>
+			<frustrum_guitar value="1"/>
+			<frustrum_fredaward value="1"/>
+			<frustrum_wallet4 value="1"/>
+			<frustrum_fabricsoftener value="1"/>
+			<frustrum_spices value="1"/>
+			<frustrum_preasuremeter value="1"/>
+			<frustrum_tribalmask value="1"/>
+			<frustrum_bones value="1"/>
+			<frustrum_wallet3 value="1"/>
+			<frustrum_oil value="1"/>
+			<frustrum_itbonus value="1"/>
+			<frustrum_filter value="1"/>
+			<frustrum_ring value="1"/>
+			<frustrum_wallet1 value="1"/>
+			<frustrum_bits value="1"/>
+			<frustrum_lure value="1"/>
+			<frustrum_darts value="1"/>
+			<frustrum_shaver value="1"/>
+			<frustrum_harmonica value="1"/>
+			<frustrum_wallet2 value="1"/>
+			<frustrum_lotion value="1"/>
+			<frustrum_lp value="1"/>
+			<frustrum_dehumidifier value="1"/>
+			<frustrum_hat value="1"/>
+			<factory_waterproof value="1"/>
+			<factory_cards value="1"/>
+			<factory_bulletproof value="1"/>
+			<factory_campingguide value="1"/>
+			<factory_climbinghat value="1"/>
+			<factory_umbrella value="1"/>
+			<factory_survivalbook value="1"/>
+			<factory_oldoutboardmotor value="1"/>
+			<factory_radio value="1"/>
+			<factory_semiconductors value="1"/>
+			<factory_aicore value="1"/>
+			<factory_cigars value="1"/>
+			<factory_distancesensor value="1"/>
+			<factory_gyroscope value="1"/>
+			<factory_servo value="1"/>
+			<factory_gearmotor value="1"/>
+			<factory_key value="1"/>
+			<factory_microphone value="1"/>
+			<factory_infraredsensor value="1"/>
+			<factory_lightsensor value="1"/>
+			<factory_ultrasonicsensor value="1"/>
+			<factory_watersensor value="1"/>
+			<factory_scubagear value="1"/>
+			<factory_gillianbribe value="1"/>
+			<factory_roboteye value="1"/>
+			<factory_infraredtransmitter value="1"/>
+			<factory_fishingrod value="1"/>
+			<carib_tuningkit value="1"/>
+			<carib_supercharger value="1"/>
+			<carib_snorkel value="1"/>
+			<carib_carburetor value="1"/>
+			<carib_jetskiengine value="1"/>
+			<carib_tropicalhelmet value="1"/>
+			<carib_grappa value="1"/>
+			<carib_diamondcane value="1"/>
+			<carib_oldmagazines value="1"/>
+			<carib_wallet value="1"/>
+			<carib_knuckles value="1"/>
+			<carib_copperwire value="1"/>
+			<carib_grease value="1"/>
+			<carib_bayran value="1"/>
+			<carib_pineapple value="1"/>
+			<carib_pegleg value="1"/>
+			<carib_goldenbullets value="1"/>
+			<carib_duck value="1"/>
+			<carib_teapot value="1"/>
+			<carib_rims value="1"/>
+			<carib_skate value="1"/>
+			<carib_shell value="1"/>
+			<carib_chainsaw value="1"/>
+			<carib_volleyball value="1"/>
+			<carib_moneycounter value="1"/>
+			<carib_islandlife value="1"/>
+			<carib_lastroll value="1"/>
+			<carib_scale value="1"/>
+			<carib_messageinabottle value="1"/>
+			<carib_monkeyhand value="1"/>
+			<carib_goldengrillz value="1"/>
+			<carib_birdegg value="1"/>
+			<carib_scubatank value="1"/>
+			<carib_exoticfruit value="1"/>
+			<factory_roses value="1"/>
+			<lee_hammer value="1"/>
+			<factory_explosionproof value="1"/>
+			<factory_helicoptermanual value="1"/>
+		</valuable>
+		<cash value="0"/>
+		<tutorshown value="1"/>
+		<message>
+			<boss_intro value="2"/>
+			<mall_intro value="2"/>
+			<boss_busted value="2"/>
+			<lee_computers value="2"/>
+			<lee_login value="2"/>
+			<boss_coffee value="2"/>
+			<marina_demolish value="2"/>
+			<marina_cars value="2"/>
+			<mansion_pool value="2"/>
+			<marina_gps value="2"/>
+			<lee_safe value="2"/>
+			<lee_safe_done value="2"/>
+			<lee_tower value="2"/>
+			<boss_encourage_1 value="2"/>
+			<mansion_art value="2"/>
+			<marina_tools value="2"/>
+			<lockelle_parade_ad value="2"/>
+			<marina_art_back value="2"/>
+			<marina_art_back_done value="2"/>
+			<caveisland_computers value="2"/>
+			<mansion_fraud value="2"/>
+			<mansion_race value="2"/>
+			<mansion_safe value="2"/>
+			<mall_foodcourt value="2"/>
+			<lee_powerplant value="2"/>
+			<caveisland_propane value="2"/>
+			<lee_powerplant_done value="2"/>
+			<caveisland_dishes value="2"/>
+			<boss_encourage_2 value="2"/>
+			<lee_flooding value="2"/>
+			<frustrum_chase value="2"/>
+			<boss_part2 value="2"/>
+			<factory_espionage value="2"/>
+			<factory_espionage_done value="2"/>
+			<caveisland_ingredients value="2"/>
+			<frustrum_tornado value="2"/>
+			<mall_shipping value="2"/>
+			<mall_shipping_done value="2"/>
+			<carib_travel value="2"/>
+			<carib_alarm value="2"/>
+			<boss_vacation value="2"/>
+			<carib_barrels value="2"/>
+			<carib_destroy value="2"/>
+			<carib_yacht value="2"/>
+			<carib_last value="2"/>
+			<frustrum_vehicle value="2"/>
+			<mall_decorations value="2"/>
+			<factory_tools value="2"/>
+			<mall_radiolink value="2"/>
+			<frustrum_pawnshop value="2"/>
+			<factory_robot value="2"/>
+			<lee_woonderland value="2"/>
+			<factory_explosive value="2"/>
+			<tracy_dinner value="2"/>
+			<factory_explosive_done value="2"/>
+			<caveisland_roboclear value="2"/>
+			<caveisland_roboclear_done1 value="2"/>
+			<caveisland_roboclear_done2 value="2"/>
+			<cullington_bomb value="2"/>
+		</message>
+		<mission>
+			<mall_intro value="1">
+				<score value="1"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</mall_intro>
+			<lee_computers value="1">
+				<score value="3"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</lee_computers>
+			<lee_login value="1">
+				<score value="3"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</lee_login>
+			<marina_demolish value="1">
+				<score value="3"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</marina_demolish>
+			<marina_cars value="1">
+				<score value="4"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</marina_cars>
+			<mansion_pool value="1">
+				<score value="6"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</mansion_pool>
+			<marina_gps value="1">
+				<score value="5"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</marina_gps>
+			<lee_safe value="1">
+				<score value="5"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</lee_safe>
+			<lee_tower value="1">
+				<score value="1"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</lee_tower>
+			<mansion_art value="1">
+				<score value="6"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</mansion_art>
+			<marina_tools value="1">
+				<score value="6"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</marina_tools>
+			<marina_art_back value="1">
+				<score value="4"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</marina_art_back>
+			<caveisland_computers value="1">
+				<score value="7"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</caveisland_computers>
+			<mansion_fraud value="1">
+				<score value="6"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</mansion_fraud>
+			<mansion_race value="1">
+				<score value="3"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</mansion_race>
+			<mansion_safe value="1">
+				<score value="6"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</mansion_safe>
+			<mall_foodcourt value="1">
+				<score value="3"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</mall_foodcourt>
+			<lee_powerplant value="1">
+				<score value="8"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</lee_powerplant>
+			<caveisland_propane value="1">
+				<score value="8"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</caveisland_propane>
+			<caveisland_dishes value="1">
+				<score value="9"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</caveisland_dishes>
+			<lee_flooding value="1">
+				<score value="8"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</lee_flooding>
+			<frustrum_chase value="1">
+				<score value="1"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</frustrum_chase>
+			<factory_espionage value="1">
+				<score value="5"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</factory_espionage>
+			<caveisland_ingredients value="1">
+				<score value="6"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</caveisland_ingredients>
+			<frustrum_tornado value="1">
+				<score value="6"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</frustrum_tornado>
+			<mall_shipping value="1">
+				<score value="8"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</mall_shipping>
+			<carib_alarm value="1">
+				<score value="6"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</carib_alarm>
+			<carib_barrels value="1">
+				<score value="5"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</carib_barrels>
+			<carib_destroy value="1">
+				<score value="7"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</carib_destroy>
+			<carib_yacht value="1">
+				<score value="1"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</carib_yacht>
+			<frustrum_vehicle value="1">
+				<score value="3"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</frustrum_vehicle>
+			<factory_tools value="1">
+				<score value="6"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</factory_tools>
+			<mall_decorations value="1">
+				<score value="6"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</mall_decorations>
+			<mall_radiolink value="1">
+				<score value="5"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</mall_radiolink>
+			<frustrum_pawnshop value="1">
+				<score value="7"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</frustrum_pawnshop>
+			<factory_robot value="1">
+				<score value="4"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</factory_robot>
+			<lee_woonderland value="1">
+				<score value="8"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</lee_woonderland>
+			<factory_explosive value="1">
+				<score value="7"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</factory_explosive>
+			<caveisland_roboclear value="1">
+				<score value="7"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</caveisland_roboclear>
+			<cullington_bomb value="1">
+				<score value="1"/>
+				<timeleft value="-1.0"/>
+				<missiontime value="0"/>
+			</cullington_bomb>
+		</mission>
+		<stats>
+			<brokenvoxels value="1367999"/>
+			<robotsdestroyed value="0"/>
+			<cullington_oop_store_destoyed value="0"/>
+			<mall_oop_store_destoyed value="0"/>
+			<totalplaytime value="0.0"/>
+		</stats>
+		<lastcompleted value="cullington_bomb"/>
+		<hub>
+			<score value="204"/>
+			<hub2 value="1"/>
+			<hub3 value="1"/>
+			<hub4 value="1"/>
+			<hub5 value="1"/>
+			<hub6 value="1"/>
+			<hub7 value="1"/>
+			<hub8 value="1"/>
+			<hub9 value="1"/>
+			<hub10 value="1"/>
+			<hub11 value="1"/>
+			<hub12 value="1"/>
+			<hub13 value="1"/>
+			<hub20 value="1"/>
+			<hub21 value="1"/>
+			<hub22 value="1"/>
+			<hub23 value="1"/>
+			<hub24 value="1"/>
+			<hub40 value="1"/>
+			<hub41 value="1"/>
+			<hub42 value="1"/>
+			<hub43 value="1"/>
+			<hub44 value="1"/>
+			<hub45 value="1"/>
+		</hub>
+		<reward>
+			<1000 value="1"/>
+			<2000 value="1"/>
+			<3000 value="1"/>
+			<4000 value="1"/>
+			<5000 value="1"/>
+		</reward>
+		<quicksave>
+			<numoffiles value="1"/>
+		</quicksave>
+		<startcount value="24"/>
+		<challenge>
+			<ch_lee_fetch>
+				<score value="0"/>
+				<stars value="5"/>
+				<type value="fetch"/>
+				<timeleft value="60"/>
+			</ch_lee_fetch>
+			<ch_lee_hunted>
+				<score value="0"/>
+				<stars value="5"/>
+				<type value="hunted"/>
+			</ch_lee_hunted>
+			<ch_lee_mayhem>
+				<score value="0"/>
+				<stars value="5"/>
+				<type value="mayhem"/>
+			</ch_lee_mayhem>
+			<ch_marina_fetch>
+				<score value="0"/>
+				<stars value="5"/>
+				<type value="fetch"/>
+				<timeleft value="60"/>
+			</ch_marina_fetch>
+			<ch_marina_hunted>
+				<score value="0"/>
+				<stars value="5"/>
+				<type value="hunted"/>
+			</ch_marina_hunted>
+			<ch_marina_mayhem>
+				<score value="0"/>
+				<stars value="5"/>
+				<type value="mayhem"/>
+			</ch_marina_mayhem>
+			<ch_mansion_fetch>
+				<score value="0"/>
+				<stars value="5"/>
+				<type value="fetch"/>
+				<timeleft value="60"/>
+			</ch_mansion_fetch>
+			<ch_mansion_mayhem>
+				<score value="0"/>
+				<stars value="5"/>
+				<type value="mayhem"/>
+			</ch_mansion_mayhem>
+			<ch_mansion_hunted>
+				<score value="0"/>
+				<stars value="5"/>
+				<type value="hunted"/>
+			</ch_mansion_hunted>
+			<ch_caveisland_fetch>
+				<score value="0"/>
+				<stars value="5"/>
+				<type value="fetch"/>
+				<timeleft value="60"/>
+			</ch_caveisland_fetch>
+			<ch_caveisland_hunted>
+				<score value="0"/>
+				<stars value="5"/>
+				<type value="hunted"/>
+			</ch_caveisland_hunted>
+			<ch_caveisland_mayhem>
+				<score value="0"/>
+				<stars value="5"/>
+				<type value="mayhem"/>
+			</ch_caveisland_mayhem>
+			<ch_mall_fetch>
+				<score value="0"/>
+				<stars value="5"/>
+				<type value="fetch"/>
+				<timeleft value="60"/>
+			</ch_mall_fetch>
+			<ch_mall_hunted>
+				<score value="0"/>
+				<stars value="5"/>
+				<type value="hunted"/>
+			</ch_mall_hunted>
+			<ch_mall_mayhem>
+				<score value="0"/>
+				<stars value="5"/>
+				<type value="mayhem"/>
+			</ch_mall_mayhem>
+			<ch_frustrum_fetch>
+				<score value="0"/>
+				<stars value="5"/>
+				<type value="fetch"/>
+				<timeleft value="60"/>
+			</ch_frustrum_fetch>
+			<ch_frustrum_hunted>
+				<score value="0"/>
+				<stars value="5"/>
+				<type value="hunted"/>
+			</ch_frustrum_hunted>
+			<ch_frustrum_mayhem>
+				<score value="0"/>
+				<stars value="5"/>
+				<type value="mayhem"/>
+			</ch_frustrum_mayhem>
+			<ch_carib_fetch>
+				<score value="0"/>
+				<stars value="5"/>
+				<type value="fetch"/>
+				<timeleft value="60"/>
+			</ch_carib_fetch>
+			<ch_carib_hunted>
+				<score value="0"/>
+				<stars value="5"/>
+				<type value="hunted"/>
+			</ch_carib_hunted>
+			<ch_carib_mayhem>
+				<score value="0"/>
+				<stars value="5"/>
+				<type value="mayhem"/>
+			</ch_carib_mayhem>
+			<ch_factory_fetch>
+				<score value="0"/>
+				<stars value="5"/>
+				<type value="fetch"/>
+				<timeleft value="60"/>
+			</ch_factory_fetch>
+			<ch_factory_hunted>
+				<score value="0"/>
+				<stars value="5"/>
+				<type value="hunted"/>
+			</ch_factory_hunted>
+			<ch_factory_mayhem>
+				<score value="0"/>
+				<stars value="5"/>
+				<type value="mayhem"/>
+			</ch_factory_mayhem>
+		</challenge>
+		<quicksavesession>
+			<numoffiles2 value="1"/>
+		</quicksavesession>
+		<reactionsshown value="1"/>
+	</savegame>
+</registry>
+
