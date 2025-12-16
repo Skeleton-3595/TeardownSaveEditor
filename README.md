@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🏗️ Teardown Save Editor
+# 🏗️ Teardown Save Editor (BETA)
+# Attention, this is a beta version! There may be bugs!
 
 **A modern save editor for Teardown.**  
 **Современный редактор сохранений для Teardown.**
